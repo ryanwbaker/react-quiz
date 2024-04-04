@@ -36,13 +36,13 @@
 			"points": 10
 		},
 		{
-			"question": "How to pass data into a child component?",
+			"question": "How should data be passed into a child component?",
 			"options": ["State", "Props", "PropTypes", "Parameters"],
 			"correctOption": 1,
 			"points": 10
 		},
 		{
-			"question": "When to use derived state?",
+			"question": "When should derived state be used?",
 			"options": [
 				"Whenever the state should not trigger a re-render",
 				"Whenever the state can be synchronized with an effect",
@@ -97,7 +97,7 @@
 			"points": 30
 		},
 		{
-			"question": "Which hook to use for an API request on the component's initial render?",
+			"question": "Which hook should be used for an API request on the component's initial render?",
 			"options": ["useState", "useEffect", "useRef", "useReducer"],
 			"correctOption": 1,
 			"points": 10
